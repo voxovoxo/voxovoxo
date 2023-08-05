@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **few web development projects**
 
-- 👨‍💻 All of my projects are available at [https://shilpabasu2015.wixsite.com/vardhanikajagtap](https://shilpabasu2015.wixsite.com/vardhanikajagtap)
+- 👨‍💻 All of my projects are available at [https://vardhanika.wixsite.com/vardhanikajagtap](https://vardhanika.wixsite.com/vardhanikajagtap)
 
-- 📫 How to reach me **shilpabasu2015@gmail.com**
+- 📫 How to reach me **vardhanikajagtap444@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
